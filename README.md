@@ -1,2 +1,2 @@
 # hello-world
-Mencoba repostori
+Lorem ipsum dolor sit amet njay
